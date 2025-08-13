@@ -1,0 +1,105 @@
+[
+  {
+    "espanol": "Hola",
+    "ingles": "Hello",
+    "definicion": "Saludo casual",
+    "ejemplos": [
+      "Hello, how are you?",
+      "I said hello to my neighbor this morning.",
+      "When I entered the room, everyone said hello.",
+      "Hello, everyone!"
+    ]
+  },
+
+  {
+    "espanol": "Perro",
+    "ingles": "Dog",
+    "definicion": "Animal de cuatro patas que usualmente  se tiene como mascota o se entrena para trabajar.",
+    "ejemplos": [
+      "I have a dog named Max.",
+      "Dogs are known for their loyalty to humans.",
+      "Many people love to play fetch with their dogs."
+    ]
+  },
+  
+  {
+    "espanol": "Casa",
+    "ingles": "House",
+    "definicion": "Construcción donde viven las personas.",
+    "ejemplos": [
+      "I live in a small house in the suburbs.",
+      "Houses come in many different architectural styles.",
+      "They are renovating their old house."
+    ]
+  },
+  {
+    "espanol": "Comer",
+    "ingles": "Eat",
+    "definicion": "ingerir alimentos.",
+    "ejemplos": [
+      "I'm hungry; let's eat dinner.",
+      "Eating a balanced diet is important for your health.",
+      "She doesn't eat meat; she's a vegetarian."
+    ]
+  },
+  {
+    "espanol": "Beber",
+    "ingles": "Drink",
+    "definicion": "Consumir líquidos a través de la boca.",
+    "ejemplos": [
+      "I like to drink water throughout the day.",
+      "Drinking too much alcohol can be harmful to your health.",
+      "Would you like to drink some coffee?"
+    ]
+  },
+  {
+    "espanol": "Dormir",
+    "ingles": "Sleep",
+    "definicion": "Un estado de descanso natural, generalmente durante la noche.",
+    "ejemplos": [
+      "I need to sleep for at least eight hours to feel rested.",
+      "Some people have trouble sleeping at night.",
+      "She fell asleep while reading a book."
+    ]
+  },
+  {
+    "espanol": "Libro",
+    "ingles": "Book",
+    "definicion": "Un objeto compuesto por páginas impresas o en blanco, generalmente contenido en una cubierta.",
+    "ejemplos": [
+      "I love to read a good book on a rainy day.",
+      "This library has a vast collection of books.",
+      "She's writing a book about her travels."
+    ]
+  },
+  {
+    "espanol": "Niño/Niña",
+    "ingles": "Child",
+    "definicion": "Un ser humano en las primeras etapas de su vida, generalmente antes de la adolescencia.",
+    "ejemplos": [
+      "My child starts kindergarten next year.",
+      "Children need love and care as they grow up.",
+      "The playground is full of happy children."
+    ]
+  },
+  {
+    "espanol": "Escuela",
+    "ingles": "School",
+    "definicion": "Una institución educativa.",
+    "ejemplos": [
+      "I'm going to school to study mathematics.",
+      "The school is closed for the summer vacation.",
+      "She's a teacher at the local elementary school."
+    ]
+  },
+  {
+    "espanol": "Ropa",
+    "ingles": "Clothing",
+    "definicion": "Artículos que las personas usan para cubrir sus cuerpos.",
+    "ejemplos": [
+      "I need to buy some new clothing for the winter.",
+      "She has a wardrobe full of stylish clothes.",
+      "It's important to choose appropriate clothing for different occasions."
+    ]
+  }
+]

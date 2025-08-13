@@ -1,0 +1,85 @@
+name: study_buddy
+description: A new Flutter project.
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  auto_size_text: ^3.0.0
+  cloud_firestore: ^4.12.2
+  firebase_auth: ^4.12.1
+  firebase_core: ^2.21.0
+  flip_card: ^0.7.0
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.7
+  provider: ^6.0.5
+  timer_count_down: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  test: ^1.24.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/icon/icon.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/icon/icon.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/icon/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/
+    - assets/icon/
+
+  fonts:
+    - family: Chewy
+      fonts: 
+        - asset: assets/fonts/Chewy.ttf
+    - family: Arimo
+      fonts:
+        - asset: assets/fonts/Arimo-Regular.ttf
+        - asset: assets/fonts/Arimo-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Arimo-Italic.ttf
+          style: italic
+        - asset: assets/fonts/Arimo-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Arimo-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Arimo-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Arimo-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Arimo-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
